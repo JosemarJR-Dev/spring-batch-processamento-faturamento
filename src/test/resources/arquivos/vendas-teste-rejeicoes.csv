@@ -1,0 +1,4 @@
+id_venda,codigo_cliente,codigo_produto,quantidade,valor_unitario,data_venda,forma_pagamento
+3001,CLI-301,PROD-001,1,99.90,2026-07-07,PIX
+3002,,PROD-002,1,149.90,2026-07-07,CARTAO
+3003,CLI-303,PROD-999,1,10.00,2026-07-07,PIX
