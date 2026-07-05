@@ -1,4 +1,4 @@
-![CI - Spring Batch](https://github.com/SEU-USUARIO/spring-batch-processamento-faturamento/actions/workflows/ci.yml/badge.svg)
+![CI - Spring Batch](https://github.com/JosemarJR-Dev/spring-batch-processamento-faturamento/actions/workflows/ci.yml/badge.svg)
 
 # spring-batch-processamento-faturamento
 
