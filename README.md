@@ -1,3 +1,5 @@
+![CI - Spring Batch](https://github.com/SEU-USUARIO/spring-batch-processamento-faturamento/actions/workflows/ci.yml/badge.svg)
+
 # spring-batch-processamento-faturamento
 
 Projeto Java Spring Boot didatico e de portfolio para demonstrar processamento batch de vendas e geracao de faturas com Spring Batch.
