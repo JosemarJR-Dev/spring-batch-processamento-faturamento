@@ -1,8 +1,16 @@
 HELP.md
 target/
+data/
+output/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+!data/.gitkeep
+!output/.gitkeep
+
+*.mv.db
+*.trace.db
+*.log
 
 ### STS ###
 .apt_generated

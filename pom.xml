@@ -11,8 +11,8 @@
 	<groupId>br.com.josemar</groupId>
 	<artifactId>spring-batch-processamento-faturamento</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>spring-batch-processamento-faturamento</name>
+	<description>Projeto didatico de processamento de faturamento com Spring Batch</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -104,6 +104,7 @@
 							<goal>compile</goal>
 						</goals>
 						<configuration>
+							<release>${java.version}</release>
 							<annotationProcessorPaths>
 								<path>
 									<groupId>org.projectlombok</groupId>
@@ -119,6 +120,7 @@
 							<goal>testCompile</goal>
 						</goals>
 						<configuration>
+							<release>${java.version}</release>
 							<annotationProcessorPaths>
 								<path>
 									<groupId>org.projectlombok</groupId>
